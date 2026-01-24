@@ -25,11 +25,11 @@ O projeto foi desenvolvido como parte de um desafio prático da Digital Innovati
  O sistema segue o fluxo abaixo:
 
  🎤 Voz do usuário
-   ↓
+   ->
 📝 Whisper (Speech-to-Text)
-   ↓
+   ->
 🧠 ChatGPT (Processamento Inteligente)
-   ↓
+   ->
 🔊 gTTS (Text-to-Speech)
-   ↓
+   ->
 🎧 Áudio de resposta
